@@ -11255,7 +11255,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DHVOMBPB
 
 [Document661]
 DocumentPath=symbols\ADC\SCH - ADC - INTERSIL ISL26104AVZ.SCHLIB
@@ -11272,7 +11272,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VELADEHT
 
 [Document662]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1120 QFN.SCHLIB
@@ -11289,7 +11289,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXABOWJB
 
 [Document663]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1120 TSSOP.SCHLIB
@@ -11306,7 +11306,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QGNXVHOH
 
 [Document664]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1220 TSSOP.SCHLIB
@@ -11323,7 +11323,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXBAXCJO
 
 [Document665]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1220.SCHLIB
@@ -11340,7 +11340,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ODWMWUDW
 
 [Document666]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1240.SCHLIB
@@ -11357,7 +11357,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XKMMNYMW
 
 [Document667]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1241.SCHLIB
@@ -11374,7 +11374,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DHVOMBPB
+DocumentUniqueId=LTIFUMBF
 
 [Document668]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1242.SCHLIB
@@ -11391,7 +11391,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ENYVMHEE
 
 [Document669]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1243.SCHLIB
@@ -11408,7 +11408,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JTSJYHQM
 
 [Document670]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1255.SCHLIB
@@ -11425,7 +11425,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YUDXXBPO
 
 [Document671]
 DocumentPath=symbols\ADC\SCH - ADC - TI ADS1256.SCHLIB
@@ -11442,7 +11442,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TKSOETMD
 
 [Document672]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - CYPRESS CY8C42XX 28SSOP.SCHLIB
@@ -11459,7 +11459,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RHAWVDGP
 
 [Document673]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U1X 33PIN.SCHLIB
@@ -11476,7 +11476,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YXLYNXVU
 
 [Document674]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U1X LQFP48.SCHLIB
@@ -11493,7 +11493,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GYVTUYLO
 
 [Document675]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X 33PIN.SCHLIB
@@ -11510,7 +11510,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHHEVGKX
 
 [Document676]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X LQFP48.SCHLIB
@@ -11527,7 +11527,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TYKQNTIV
 
 [Document677]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X LQFP64.SCHLIB
@@ -11544,7 +11544,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PYPIXJMV
 
 [Document678]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U2X TFBGA48.SCHLIB
@@ -11561,7 +11561,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DDKJNEEH
 
 [Document679]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X 33PIN.SCHLIB
@@ -11578,7 +11578,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BADRNPWF
 
 [Document680]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X LQFP48.SCHLIB
@@ -11595,7 +11595,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NTLICHXH
 
 [Document681]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X LQFP64.SCHLIB
@@ -11612,7 +11612,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EODOSRTC
 
 [Document682]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC11U3X TFBGA48.SCHLIB
@@ -11629,7 +11629,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UYTXWRNV
 
 [Document683]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC81X 16PIN.SCHLIB
@@ -11646,7 +11646,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PDMYHTSL
 
 [Document684]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC81X 20PIN.SCHLIB
@@ -11663,7 +11663,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQCYQJSL
 
 [Document685]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC82X 20PIN.SCHLIB
@@ -11680,7 +11680,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOOIDQSB
 
 [Document686]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC82X 33PIN.SCHLIB
@@ -11697,7 +11697,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WUPRHGEO
 
 [Document687]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC134X 33 PIN.SCHLIB
@@ -11714,7 +11714,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EQDFQAAB
 
 [Document688]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC151X LQFP48.SCHLIB
@@ -11731,7 +11731,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUWEQEFL
 
 [Document689]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC151X LQFP64.SCHLIB
@@ -11748,7 +11748,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WTHYJQAS
 
 [Document690]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC151X LQFP100.SCHLIB
@@ -11765,7 +11765,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BJVFTBVU
 
 [Document691]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC154X LQFP48.SCHLIB
@@ -11782,7 +11782,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOLLGLJD
 
 [Document692]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC154X LQFP64.SCHLIB
@@ -11799,7 +11799,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXQWGDTK
 
 [Document693]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC154X LQFP100.SCHLIB
@@ -11816,7 +11816,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AVHRAWTT
 
 [Document694]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC176X LQFP100.SCHLIB
@@ -11833,7 +11833,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QTRIYGFY
 
 [Document695]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC176X TFBGA100.SCHLIB
@@ -11850,7 +11850,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PXPOVVAI
 
 [Document696]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP LPC176X WLCSP100.SCHLIB
@@ -11867,7 +11867,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HEMJFWWP
 
 [Document697]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - NXP MK64FN 100PIN.SCHLIB
@@ -11884,7 +11884,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XOKNOERJ
 
 [Document698]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - SI LABS EFM32TG230.SCHLIB
@@ -11901,7 +11901,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DQQGGKAQ
 
 [Document699]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F070X6 20PIN.SCHLIB
@@ -11918,7 +11918,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=COQGIPNX
 
 [Document700]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F070X6 48PIN.SCHLIB
@@ -11935,7 +11935,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LDSGVGCI
 
 [Document701]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F070X6 64PIN.SCHLIB
@@ -11952,7 +11952,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ONHJVDYH
 
 [Document702]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F100 64PIN.SCHLIB
@@ -11969,7 +11969,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PCJLODYK
 
 [Document703]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F101 48PIN.SCHLIB
@@ -11986,7 +11986,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RHAWVDGP
+DocumentUniqueId=UKFCVXFR
 
 [Document704]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F101 64PIN.SCHLIB
@@ -12003,7 +12003,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PUAKGGUY
 
 [Document705]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F103 48PIN.SCHLIB
@@ -12020,7 +12020,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JJGXQYFW
 
 [Document706]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F103 64PIN.SCHLIB
@@ -12037,7 +12037,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IOXUMIXY
 
 [Document707]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F401 64PIN.SCHLIB
@@ -12054,7 +12054,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OGWLMRQA
 
 [Document708]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F415 64PIN.SCHLIB
@@ -12071,7 +12071,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DTEEBCQA
 
 [Document709]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F446 64PIN.SCHLIB
@@ -12088,7 +12088,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOLSBQSD
 
 [Document710]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32F446 100PIN.SCHLIB
@@ -12105,7 +12105,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GDNNHCOB
 
 [Document711]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L051 32PIN.SCHLIB
@@ -12122,7 +12122,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OVWLRLEW
 
 [Document712]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L051 48PIN.SCHLIB
@@ -12139,7 +12139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GXJCPFDA
 
 [Document713]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L051 64PIN.SCHLIB
@@ -12156,7 +12156,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NRTDEXFL
 
 [Document714]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L100 64PIN.SCHLIB
@@ -12173,7 +12173,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IERBVQTM
 
 [Document715]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L151 48PIN.SCHLIB
@@ -12190,7 +12190,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JAGEWLLV
 
 [Document716]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L151 64PIN.SCHLIB
@@ -12207,7 +12207,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRACVGTO
 
 [Document717]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L152 48PIN.SCHLIB
@@ -12224,7 +12224,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OFWIICVY
 
 [Document718]
 DocumentPath=symbols\ARM Cortex\SCH - ARM CORTEX - ST STM32L152 64PIN.SCHLIB
@@ -12241,7 +12241,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HNFGROGG
 
 [Document719]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY4_5_9_10 6PIN.SCHLIB
@@ -12258,7 +12258,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MIGKGNCB
 
 [Document720]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY4_5_9_10 8PIN.SCHLIB
@@ -12275,7 +12275,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WJTLQRSA
 
 [Document721]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24_44_84 14PIN.SCHLIB
@@ -12292,7 +12292,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KYSKJCDK
 
 [Document722]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24_44_84 20PIN.SCHLIB
@@ -12309,7 +12309,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YLFHYFMI
 
 [Document723]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24A_44A_84A 14PIN.SCHLIB
@@ -12326,7 +12326,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XQFGYMXH
 
 [Document724]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24A_44A_84A 15PIN.SCHLIB
@@ -12343,7 +12343,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NNYYVVUB
 
 [Document725]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY24A_44A_84A 20PIN.SCHLIB
@@ -12360,7 +12360,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JYNPJRUI
 
 [Document726]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY25_45_85 8PIN.SCHLIB
@@ -12377,7 +12377,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BVYWRDJU
 
 [Document727]
 DocumentPath=symbols\Atmel AVR\SCH - ATMEL AVR - ATMEL ATTINY25_45_85 20PIN.SCHLIB
@@ -12394,7 +12394,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SFXNMHOR
 
 [Document728]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX9705 TDFN.SCHLIB
@@ -12411,7 +12411,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OPGHSEGS
 
 [Document729]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX9705 UCSP.SCHLIB
@@ -12428,7 +12428,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BEGFHHXI
 
 [Document730]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX98300 TDFN.SCHLIB
@@ -12445,7 +12445,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ROPPTJLE
 
 [Document731]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX98300 WLP.SCHLIB
@@ -12462,7 +12462,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NSCTEIGF
 
 [Document732]
 DocumentPath=symbols\Audio\SCH - AUDIO - MAXIM MAX98306.SCHLIB
@@ -12479,7 +12479,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FNYXRCCP
 
 [Document733]
 DocumentPath=symbols\Audio\SCH - AUDIO - ST TS4962.SCHLIB
@@ -12496,7 +12496,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NSRNBDXP
 
 [Document734]
 DocumentPath=symbols\Audio\SCH - AUDIO - VLSI VS1053.SCHLIB
@@ -12513,7 +12513,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXKQCOOW
 
 [Document735]
 DocumentPath=symbols\Battery\SCH - BATTERY - KEYSTONE 2462.SCHLIB
@@ -12530,7 +12530,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WFINXDOM
 
 [Document736]
 DocumentPath=symbols\Button\SCH - BUTTON - C&K ELUMOASAQ2C12.SCHLIB
@@ -12547,7 +12547,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WAVGLETP
 
 [Document737]
 DocumentPath=symbols\Button\SCH - BUTTON - NKK AB11AH-HA.SCHLIB
@@ -12564,7 +12564,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LIHMHXLX
 
 [Document738]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NC 4 PIN.SCHLIB
@@ -12581,7 +12581,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TGGPQFHH
 
 [Document739]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NO 2 PIN.SCHLIB
@@ -12598,7 +12598,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MTCCHECK
 
 [Document740]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NO 4 PIN.SCHLIB
@@ -12615,7 +12615,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VSRFLWVL
 
 [Document741]
 DocumentPath=symbols\Button\SCH - BUTTON - SPST-NO 5 PIN.SCHLIB
@@ -12632,7 +12632,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GVCHBVUY
 
 [Document742]
 DocumentPath=symbols\Charger\SCH - CHARGER - MICROCHIP MCP73831.SCHLIB
@@ -12649,7 +12649,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PQQLUNMD
 
 [Document743]
 DocumentPath=symbols\Charger\SCH - CHARGER - MICROCHIP MCP73833.SCHLIB
@@ -12666,7 +12666,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=POUADCCA
 
 [Document744]
 DocumentPath=symbols\Charger\SCH - CHARGER - MICROCHIP MCP73834.SCHLIB
@@ -12683,7 +12683,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XTCWKUGS
 
 [Document745]
 DocumentPath=symbols\Charger\SCH - CHARGER - SKYWORKS AAT3663.SCHLIB
@@ -12700,7 +12700,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SDKHQFYB
 
 [Document746]
 DocumentPath=symbols\Charger\SCH - CHARGER - SKYWORKS AAT3681A.SCHLIB
@@ -12717,7 +12717,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMSKPSQU
 
 [Document747]
 DocumentPath=symbols\Charger\SCH - CHARGER - SKYWORKS AAT3693.SCHLIB
@@ -12734,7 +12734,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WBBXLMLD
 
 [Document748]
 DocumentPath=symbols\Charger\SCH - CHARGER - TI BQ2409X.SCHLIB
@@ -12751,7 +12751,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BBDSTISC
 
 [Document749]
 DocumentPath=symbols\Charger\SCH - CHARGER - TI BQ24040_45.SCHLIB
@@ -12768,7 +12768,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XQWADONU
 
 [Document750]
 DocumentPath=symbols\Charger\SCH - CHARGER - TI BQ24041.SCHLIB
@@ -12785,7 +12785,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MKFTGUUR
 
 [Document751]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2 PIN.SCHLIB
@@ -12802,7 +12802,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KBGGXBTL
 
 [Document752]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X5 PIN.SCHLIB
@@ -12819,7 +12819,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PTQMQIEF
 
 [Document753]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X10 PIN.SCHLIB
@@ -12836,7 +12836,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PAIFBPLS
 
 [Document754]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 2X15 PIN HEADER ALTERNATING PINS.SCHLIB
@@ -12853,7 +12853,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TIQXYHFX
 
 [Document755]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 3 PIN.SCHLIB
@@ -12870,7 +12870,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TRJFJCRF
 
 [Document756]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 4 PIN.SCHLIB
@@ -12887,7 +12887,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TGNEJRHR
 
 [Document757]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 5 PIN.SCHLIB
@@ -12904,7 +12904,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RYPWXGSK
 
 [Document758]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 6 PIN.SCHLIB
@@ -12921,7 +12921,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GRLYWTTV
 
 [Document759]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 7 PIN.SCHLIB
@@ -12938,7 +12938,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=THRINGDS
 
 [Document760]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 8 PIN.SCHLIB
@@ -12955,7 +12955,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EKVSWVRG
 
 [Document761]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 9 PIN.SCHLIB
@@ -12972,7 +12972,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SEPAJNMK
 
 [Document762]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 10 PIN.SCHLIB
@@ -12989,7 +12989,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MRKGHRUW
 
 [Document763]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - 12 PIN DUAL ROW.SCHLIB
@@ -13006,7 +13006,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WHOQMTOD
 
 [Document764]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - BARREL CONNECTOR.SCHLIB
@@ -13023,7 +13023,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MRBHDKJP
 
 [Document765]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - DIN 41612 48POS 3ROW.SCHLIB
@@ -13040,7 +13040,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QUVTILDR
 
 [Document766]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - GIGABIT ETHERNET JACK.SCHLIB
@@ -13057,7 +13057,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IQUICXEP
 
 [Document767]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - HIROSE DM3 MICROSD.SCHLIB
@@ -13074,7 +13074,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOALCSWT
 
 [Document768]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - HIROSE DM3C MICROSD.SCHLIB
@@ -13091,7 +13091,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IXVHRBIL
 
 [Document769]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH MAGNETICS SHIELD LEDS.SCHLIB
@@ -13108,7 +13108,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RDNBBTNQ
 
 [Document770]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 3 PORT.SCHLIB
@@ -13125,7 +13125,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OLHCYOMN
 
 [Document771]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 4 PORT.SCHLIB
@@ -13142,7 +13142,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EBXUGWOT
 
 [Document772]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD 8 PORT.SCHLIB
@@ -13159,7 +13159,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FMFMSRMS
 
 [Document773]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD AND LEDS 3 PORT.SCHLIB
@@ -13176,7 +13176,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MEQQTVFL
 
 [Document774]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - MODULAR JACK WITH SHIELD.SCHLIB
@@ -13193,7 +13193,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XJQRFWOH
 
 [Document775]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - USB 2.0 TYPE B MICRO.SCHLIB
@@ -13210,7 +13210,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=COXSEVMQ
 
 [Document776]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - USB 2.0 TYPE B.SCHLIB
@@ -13227,7 +13227,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LELYEKXI
 
 [Document777]
 DocumentPath=symbols\Connectors\SCH - CONNECTORS - USB 3.0 TYPE C.SCHLIB
@@ -13244,7 +13244,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CAWFXVBQ
 
 [Document778]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABLS.SCHLIB
@@ -13261,7 +13261,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LMKUWHQB
 
 [Document779]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABM8G.SCHLIB
@@ -13278,7 +13278,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XECPRIEP
 
 [Document780]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABM10.SCHLIB
@@ -13295,7 +13295,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SYJYBSDQ
 
 [Document781]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABS06.SCHLIB
@@ -13312,7 +13312,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JCYFLQRG
 
 [Document782]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABS07.SCHLIB
@@ -13329,7 +13329,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XSUEFNNN
 
 [Document783]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON CRYSTAL ABS25.SCHLIB
@@ -13346,7 +13346,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CCYSBPBI
 
 [Document784]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON MEMS ASDM.SCHLIB
@@ -13363,7 +13363,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MXKDJNMM
 
 [Document785]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON MEMS ASDMB.SCHLIB
@@ -13380,7 +13380,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DBQXRVSP
 
 [Document786]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON MEMS ASEMB.SCHLIB
@@ -13397,7 +13397,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UHSUGMRV
 
 [Document787]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON TCXO ASTX-11.SCHLIB
@@ -13414,7 +13414,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TSYELPBH
 
 [Document788]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON VCTCXO ASVTX-09.SCHLIB
@@ -13431,7 +13431,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DFXQPUCN
 
 [Document789]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON VCTCXO ASVTX-11.SCHLIB
@@ -13448,7 +13448,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UCLESUEO
 
 [Document790]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON XO ASD.SCHLIB
@@ -13465,7 +13465,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YQPFXWYY
 
 [Document791]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ABRACON XO ASE.SCHLIB
@@ -13482,7 +13482,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EGXMSKAL
 
 [Document792]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - CTS TCXO 532.SCHLIB
@@ -13499,7 +13499,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SLQUNYVR
 
 [Document793]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - ECS CRYSTAL CSM-3X.SCHLIB
@@ -13516,7 +13516,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GVRJWKCJ
 
 [Document794]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - EPSON CRYSTAL TSX-3225.SCHLIB
@@ -13533,7 +13533,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=APHHHRKW
 
 [Document795]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - FOX TCXO 924B.SCHLIB
@@ -13550,7 +13550,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KEELJHRW
 
 [Document796]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - KYOCERA CRYSTAL CX2016DB.SCHLIB
@@ -13567,7 +13567,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XHARXYJK
 
 [Document797]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - KYOCERA CRYSTAL CX3225GB.SCHLIB
@@ -13584,7 +13584,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JIAHIVOI
 
 [Document798]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX2520SA.SCHLIB
@@ -13601,7 +13601,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WCJVMMNC
 
 [Document799]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX3225GA.SCHLIB
@@ -13618,7 +13618,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PNAFMTYQ
 
 [Document800]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX3225SA.SCHLIB
@@ -13635,7 +13635,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHEETOQT
 
 [Document801]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX5032GA.SCHLIB
@@ -13652,7 +13652,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WCEYQLRW
 
 [Document802]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - NDK CRYSTAL NX8045GB.SCHLIB
@@ -13669,7 +13669,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BWEKTQJS
 
 [Document803]
 DocumentPath=symbols\Crystals\SCH - CRYSTALS - TXC CRYSTAL 9C.SCHLIB
@@ -13686,7 +13686,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PUHHWNSY
 
 [Document804]
 DocumentPath=symbols\DAC\SCH - DAC - TI DAC081S101CIMK.SCHLIB
@@ -13703,7 +13703,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WAFNAADV
 
 [Document805]
 DocumentPath=symbols\DAC\SCH - DAC - TI DAC081S101CIMM.SCHLIB
@@ -13720,7 +13720,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FXECEGGM
 
 [Document806]
 DocumentPath=symbols\DAC\SCH - DAC - TI DAC5571I.SCHLIB
@@ -13737,7 +13737,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JAHTGTOL
 
 [Document807]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8630.SCHLIB
@@ -13754,7 +13754,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SJJYHNKG
 
 [Document808]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8631.SCHLIB
@@ -13771,7 +13771,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FRUKQFNL
 
 [Document809]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8640.SCHLIB
@@ -13788,7 +13788,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GWXLXLVC
 
 [Document810]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8641.SCHLIB
@@ -13805,7 +13805,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HSSXJBFS
 
 [Document811]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - SI LABS SI8642.SCHLIB
@@ -13822,7 +13822,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JMTMBNJQ
 
 [Document812]
 DocumentPath=symbols\Digital Isolator\SCH - DIGITAL ISOLATOR - TI ISO154X.SCHLIB
@@ -13839,7 +13839,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NGECPXBO
 
 [Document813]
 DocumentPath=symbols\Digital Pot\SCH - DIGITAL POT - MICROCHIP MCP44X1 POT QFN.SCHLIB
@@ -13856,7 +13856,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IUUFMFTW
 
 [Document814]
 DocumentPath=symbols\Digital Pot\SCH - DIGITAL POT - MICROCHIP MCP44X1 POT TSSOP.SCHLIB
@@ -13873,7 +13873,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GEEVRREK
 
 [Document815]
 DocumentPath=symbols\Digital Pot\SCH - DIGITAL POT - MICROCHIP MCP44X2 RHEO TSSOP.SCHLIB
@@ -13890,7 +13890,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BCIDUWFH
 
 [Document816]
 DocumentPath=symbols\Diodes\SCH - DIODES - DIODE ZENER BIDIRECTIONAL.SCHLIB
@@ -13907,7 +13907,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IAMBRYSF
 
 [Document817]
 DocumentPath=symbols\Diodes\SCH - DIODES - DIODE ZENER.SCHLIB
@@ -13924,7 +13924,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GLFCRRGB
 
 [Document818]
 DocumentPath=symbols\Diodes\SCH - DIODES - DIODE.SCHLIB
@@ -13941,7 +13941,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PEWNKFNW
 
 [Document819]
 DocumentPath=symbols\Diodes\SCH - DIODES - LED.SCHLIB
@@ -13958,7 +13958,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DMOXVMQH
 
 [Document820]
 DocumentPath=symbols\Diodes\SCH - DIODES - NXP PRTR5V0U2X.SCHLIB
@@ -13975,7 +13975,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AKGXYIGP
 
 [Document821]
 DocumentPath=symbols\Diodes\SCH - DIODES - RGB LED SLV6A.SCHLIB
@@ -13992,7 +13992,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IDNALLJL
 
 [Document822]
 DocumentPath=symbols\Driver - LED\SCH - DRIVER - LED - DIODES INC AL5802.SCHLIB
@@ -14009,7 +14009,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UQOKGCRO
 
 [Document823]
 DocumentPath=symbols\Driver - LED\SCH - DRIVER - LED - DIODES INC AL8805.SCHLIB
@@ -14026,7 +14026,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KCIQWFCU
 
 [Document824]
 DocumentPath=symbols\Driver - LED\SCH - DRIVER - LED - DIODES INC AL8806.SCHLIB
@@ -14043,7 +14043,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LCWNSLFH
 
 [Document825]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4954.SCHLIB
@@ -14077,7 +14077,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YANKONAO
 
 [Document827]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4982 32PIN.SCHLIB
@@ -14094,7 +14094,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SHWXFDWO
 
 [Document828]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ALLEGRO A4988.SCHLIB
@@ -14111,7 +14111,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FORCBTIJ
 
 [Document829]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - INFINEON 2EDL05N06PF.SCHLIB
@@ -14128,7 +14128,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NTERGEUX
 
 [Document830]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - INFINEON 6ED003L02F2.SCHLIB
@@ -14145,7 +14145,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HEAKJNPT
 
 [Document831]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - INTERSIL HIP4081A.SCHLIB
@@ -14162,7 +14162,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JBJJHMVA
+DocumentUniqueId=PESWMIBI
 
 [Document832]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ST L6470 28PIN.SCHLIB
@@ -14179,7 +14179,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TDXLBMLE
 
 [Document833]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - ST L6470 36PIN.SCHLIB
@@ -14196,7 +14196,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QRTXDRIW
 
 [Document834]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - TI DRV8302.SCHLIB
@@ -14213,7 +14213,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QDFQJXQI
 
 [Document835]
 DocumentPath=symbols\Driver - Motor\SCH - DRIVER - MOTOR - TI DRV8818.SCHLIB
@@ -14230,7 +14230,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UKSGMUAQ
 
 [Document836]
 DocumentPath=symbols\Ethernet\SCH - ETHERNET - SMSC LAN8720.SCHLIB
@@ -14247,7 +14247,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GPWXVKSK
 
 [Document837]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC DUAL MOSFET N-CH SO-8.SCHLIB
@@ -14264,7 +14264,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NKIBKYHC
 
 [Document838]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC DUAL MOSFET N-CH SOT363.SCHLIB
@@ -14281,7 +14281,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EFSEDOBH
 
 [Document839]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC MOSFET N-CH SOT-23-3.SCHLIB
@@ -14298,7 +14298,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YLFYNAVY
 
 [Document840]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - DIODES INC MOSFET N-CH SOT-223.SCHLIB
@@ -14315,7 +14315,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BBLSRCJW
 
 [Document841]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - FAIRCHILD DUAL MOSFET N-CH SOT-23-6.SCHLIB
@@ -14332,7 +14332,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HDVQBMBN
 
 [Document842]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - FAIRCHILD MOSFET N-CH SOT-23-3.SCHLIB
@@ -14349,7 +14349,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YFNIRAIN
 
 [Document843]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON BSC MOSFET N-CH.SCHLIB
@@ -14366,7 +14366,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OFJXINHW
 
 [Document844]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON BSZ MOSFET N-CH.SCHLIB
@@ -14383,7 +14383,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AEWYMCKT
 
 [Document845]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON DUAL MOSFET N-CH SOT363.SCHLIB
@@ -14400,7 +14400,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SXIFOPKD
 
 [Document846]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET IPT059N15N3.SCHLIB
@@ -14417,7 +14417,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BOOCJLXE
 
 [Document847]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH HSOF.SCHLIB
@@ -14434,7 +14434,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HLIHDTQP
 
 [Document848]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH SOT-23-3.SCHLIB
@@ -14451,7 +14451,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IMJOFSYU
 
 [Document849]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH SOT-223.SCHLIB
@@ -14468,7 +14468,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TUREFNIQ
 
 [Document850]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - INFINEON MOSFET N-CH TO263-7.SCHLIB
@@ -14485,7 +14485,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ROWGUHDC
 
 [Document851]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - IRF MOSFET N-CH TO263-7.SCHLIB
@@ -14502,7 +14502,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AGNSBKYC
 
 [Document852]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - NXP MOSFET N-CH SOT-23-3.SCHLIB
@@ -14519,7 +14519,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GDNOIKSL
 
 [Document853]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - NXP MOSFET N-CH SOT-223.SCHLIB
@@ -14536,7 +14536,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WGQGQUCG
 
 [Document854]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - ON SEMI DUAL MOSFET N-CH SOT363.SCHLIB
@@ -14553,7 +14553,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PMGMUNPU
 
 [Document855]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - ON SEMI MOSFET N-CH SOT-23-3.SCHLIB
@@ -14570,7 +14570,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MYOJXLHJ
 
 [Document856]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - ST MOSFET N-CH TO263-7.SCHLIB
@@ -14587,7 +14587,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KBSVNIYQ
 
 [Document857]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI CSD MOSFET N-CH Q3.SCHLIB
@@ -14604,7 +14604,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OFGMIHAJ
 
 [Document858]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI CSD MOSFET N-CH Q5.SCHLIB
@@ -14621,7 +14621,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UNDJLAOI
 
 [Document859]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI CSD10000Q MOSFET N-CH.SCHLIB
@@ -14638,7 +14638,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GPIQFYQO
 
 [Document860]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - TI MOSFET N-CH Q2.SCHLIB
@@ -14655,7 +14655,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UFDCPJKB
 
 [Document861]
 DocumentPath=symbols\FET - N-CH\SCH - FET - N-CH - VISHAY DUAL MOSFET N-CH SOT-23-6.SCHLIB
@@ -14672,7 +14672,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CAUEGVJJ
 
 [Document862]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES DUAL MOSFET P-CH SO-8.SCHLIB
@@ -14689,7 +14689,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MFHJBFSE
 
 [Document863]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES DUAL MOSFET P-CH SOT-363.SCHLIB
@@ -14706,7 +14706,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UYVFTDUH
 
 [Document864]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES MOSFET P-CH SOT-23-3.SCHLIB
@@ -14723,7 +14723,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMBHYICX
 
 [Document865]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - DIODES MOSFET P-CH SOT-223.SCHLIB
@@ -14740,7 +14740,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WNRTNCIT
 
 [Document866]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - INFINEON DUAL MOSFET P-CH SO-8.SCHLIB
@@ -14757,7 +14757,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QNUXBTMU
 
 [Document867]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - INFINEON MOSFET P-CH SOT-23-3.SCHLIB
@@ -14774,7 +14774,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LVMFBEOW
 
 [Document868]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - INFINEON MOSFET P-CH SOT-223.SCHLIB
@@ -14791,7 +14791,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PJDIYBSR
 
 [Document869]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - NXP DUAL MOSFET P-CH SOT-363.SCHLIB
@@ -14808,7 +14808,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KWDGITLO
 
 [Document870]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - NXP MOSFET P-CH SOT-23-3.SCHLIB
@@ -14825,7 +14825,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HBEUCKSE
 
 [Document871]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - NXP MOSFET P-CH SOT-223.SCHLIB
@@ -14842,7 +14842,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XHUKRXQX
 
 [Document872]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI DUAL MOSFET P-CH SO-8.SCHLIB
@@ -14859,7 +14859,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WPGGNXRG
 
 [Document873]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI DUAL MOSFET P-CH SOT-363.SCHLIB
@@ -14876,7 +14876,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PCVSGKBU
 
 [Document874]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI MOSFET P-CH SOT-23-3.SCHLIB
@@ -14893,7 +14893,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AHWBHKKE
 
 [Document875]
 DocumentPath=symbols\FET - P-CH\SCH - FET - P-CH - ON SEMI MOSFET P-CH SOT-223.SCHLIB
@@ -14910,7 +14910,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YIMNGAIS
 
 [Document876]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INFINEON TLE7251V.SCHLIB
@@ -14927,7 +14927,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LXIEOBGF
 
 [Document877]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL3330.SCHLIB
@@ -14944,7 +14944,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FXUMNOOC
 
 [Document878]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83072E.SCHLIB
@@ -14961,7 +14961,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UVLSSVBA
 
 [Document879]
 DocumentPath=symbols\Interface\SCH - INTERFACE - INTERSIL ISL83490.SCHLIB
@@ -14978,7 +14978,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXCDQRAI
 
 [Document880]
 DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST1480AX.SCHLIB
@@ -14995,7 +14995,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RMJKEMYM
 
 [Document881]
 DocumentPath=symbols\Interface\SCH - INTERFACE - ST ST3485EX.SCHLIB
@@ -15012,7 +15012,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MAVJKSLG
 
 [Document882]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI DS26LS32.SCHLIB
@@ -15029,7 +15029,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TIALLCME
 
 [Document883]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD7X.SCHLIB
@@ -15046,7 +15046,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LIWUFAWN
 
 [Document884]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD08.SCHLIB
@@ -15063,7 +15063,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OBVJAAQP
 
 [Document885]
 DocumentPath=symbols\Interface\SCH - INTERFACE - TI SN65HVD178X.SCHLIB
@@ -15080,7 +15080,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BHFSBRSA
 
 [Document886]
 DocumentPath=symbols\IR Receiver\SCH - IR RECEIVER - VISHAY TSOP36X.SCHLIB
@@ -15097,7 +15097,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NMFVBEQP
 
 [Document887]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12832A1Z.SCHLIB
@@ -15114,7 +15114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KVTIUKUC
 
 [Document888]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12832A1Z-FSRGB.SCHLIB
@@ -15131,7 +15131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AFAHYBHY
 
 [Document889]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12864A1Z RGB.SCHLIB
@@ -15148,7 +15148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TPDWFSLK
 
 [Document890]
 DocumentPath=symbols\LCD\SCH - LCD - NEWHAVEN NHD-C12864A1Z.SCHLIB
@@ -15165,7 +15165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SFWABKSS
 
 [Document891]
 DocumentPath=symbols\Mechanical\SCH - MECHANICAL - RIGHT ANGLE MOUNTING BRACKET.SCHLIB
@@ -15182,7 +15182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WMHNOKIJ
 
 [Document892]
 DocumentPath=symbols\Memory\SCH - MEMORY - MICROCHIP EEPROM I2C 5PIN.SCHLIB
@@ -15199,7 +15199,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AKQFXMJQ
 
 [Document893]
 DocumentPath=symbols\Memory\SCH - MEMORY - MICROCHIP EEPROM I2C 8PIN.SCHLIB
@@ -15216,7 +15216,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TTIKTGDN
 
 [Document894]
 DocumentPath=symbols\Memory\SCH - MEMORY - MICROCHIP FLASH SPI 8PIN.SCHLIB
@@ -15233,7 +15233,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GWVRWRSB
 
 [Document895]
 DocumentPath=symbols\Memory\SCH - MEMORY - ON SEMI EEPROM I2C 5PIN.SCHLIB
@@ -15250,7 +15250,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OUXRSPVH
 
 [Document896]
 DocumentPath=symbols\Memory\SCH - MEMORY - ON SEMI EEPROM I2C 8PIN.SCHLIB
@@ -15267,7 +15267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EASPLTPI
 
 [Document897]
 DocumentPath=symbols\Memory\SCH - MEMORY - ON SEMI EEPROM SPI 8PIN.SCHLIB
@@ -15284,7 +15284,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JMUATNOC
 
 [Document898]
 DocumentPath=symbols\Memory\SCH - MEMORY - SPANSION FLASH SPI 8PIN.SCHLIB
@@ -15301,7 +15301,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MVASIADD
 
 [Document899]
 DocumentPath=symbols\Memory\SCH - MEMORY - SPANSION FLASH SPI 8PIN_DP.SCHLIB
@@ -15318,7 +15318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PLHGJJGX
 
 [Document900]
 DocumentPath=symbols\Memory\SCH - MEMORY - ST EEPROM I2C 8PIN.SCHLIB
@@ -15335,7 +15335,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AKQFXMJQ
+DocumentUniqueId=CBQLFNGP
 
 [Document901]
 DocumentPath=symbols\Memory\SCH - MEMORY - ST EEPROM SPI 8PIN.SCHLIB
@@ -15352,7 +15352,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HLDMHEMR
 
 [Document902]
 DocumentPath=symbols\Memory\SCH - MEMORY - WINBOND FLASH SPI 8PIN.SCHLIB
@@ -15369,7 +15369,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FYYHMDIK
 
 [Document903]
 DocumentPath=symbols\Memory\SCH - MEMORY - WINBOND FLASH SPI 8PIN_DP.SCHLIB
@@ -15386,7 +15386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MNNXGYUE
 
 [Document904]
 DocumentPath=symbols\Multiplexer\SCH - MULTIPLEXER - TI TS3A24159.SCHLIB
@@ -15403,7 +15403,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GCFPUVVY
 
 [Document905]
 DocumentPath=symbols\Multiplexer\SCH - MULTIPLEXER - TI TS5A23159.SCHLIB
@@ -15420,7 +15420,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XVRQJWXI
 
 [Document906]
 DocumentPath=symbols\Optoisolators\SCH - OPTOISOLATORS - OPTOISOLATOR.SCHLIB
@@ -15437,7 +15437,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WBECPCDH
 
 [Document907]
 DocumentPath=symbols\Passives\SCH - PASSIVES - CAPACITOR.SCHLIB
@@ -15454,7 +15454,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TESASSAD
 
 [Document908]
 DocumentPath=symbols\Passives\SCH - PASSIVES - FERRITE CHIP.SCHLIB
@@ -15471,7 +15471,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UDYFCXIM
 
 [Document909]
 DocumentPath=symbols\Passives\SCH - PASSIVES - INDUCTOR.SCHLIB
@@ -15488,7 +15488,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MYVGSWSU
 
 [Document910]
 DocumentPath=symbols\Passives\SCH - PASSIVES - LIGHT PIPE.SCHLIB
@@ -15505,7 +15505,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TLFKHPUX
 
 [Document911]
 DocumentPath=symbols\Passives\SCH - PASSIVES - POLARISED CAPACITOR.SCHLIB
@@ -15522,7 +15522,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SVREETOW
 
 [Document912]
 DocumentPath=symbols\Passives\SCH - PASSIVES - POTENTIOMETER.SCHLIB
@@ -15539,7 +15539,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ELGQOXOP
 
 [Document913]
 DocumentPath=symbols\Passives\SCH - PASSIVES - RESISTOR ARRAY (4 CIRCUIT).SCHLIB
@@ -15556,7 +15556,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PNQGQSHR
 
 [Document914]
 DocumentPath=symbols\Passives\SCH - PASSIVES - RESISTOR.SCHLIB
@@ -15573,7 +15573,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TDETAPLE
 
 [Document915]
 DocumentPath=symbols\Passives\SCH - PASSIVES - TEST POINT.SCHLIB
@@ -15590,7 +15590,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ROGVWTQF
 
 [Document916]
 DocumentPath=symbols\Passives\SCH - PASSIVES - THERMISTOR.SCHLIB
@@ -15607,7 +15607,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MTEWUHRK
 
 [Document917]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - DIODES INC AP7313.SCHLIB
@@ -15624,7 +15624,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SOEKIEEJ
 
 [Document918]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - DIODES INC ZLDO.SCHLIB
@@ -15641,7 +15641,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KKBRVWJA
 
 [Document919]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - LT LT1965 DD_MS8E.SCHLIB
@@ -15658,7 +15658,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXMHMPYA
 
 [Document920]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - LT LT1965ADJ DD_MS8E.SCHLIB
@@ -15675,7 +15675,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PJQIBFAU
 
 [Document921]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - ON SEMI MC78LC00.SCHLIB
@@ -15692,7 +15692,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RWGCNNEF
 
 [Document922]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - ON SEMI NCP1117.SCHLIB
@@ -15709,7 +15709,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ADOWEGXI
 
 [Document923]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - ST LD1117.SCHLIB
@@ -15726,7 +15726,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FPNSOJON
 
 [Document924]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LM317L.SCHLIB
@@ -15743,7 +15743,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NPCYHCEV
 
 [Document925]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LM317-N.SCHLIB
@@ -15760,7 +15760,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SCFWCENK
 
 [Document926]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LM340.SCHLIB
@@ -15777,7 +15777,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WIKYNMLV
 
 [Document927]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI LP3985.SCHLIB
@@ -15794,7 +15794,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLXAPUPY
 
 [Document928]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS763XX.SCHLIB
@@ -15811,7 +15811,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOKCJEBX
 
 [Document929]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS76301.SCHLIB
@@ -15828,7 +15828,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HDCELDIP
 
 [Document930]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS79801.SCHLIB
@@ -15845,7 +15845,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CNPVCWVG
 
 [Document931]
 DocumentPath=symbols\Power - Linear VReg\SCH - POWER - LINEAR VREG - TI TPS79850.SCHLIB
@@ -15862,7 +15862,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VDPOSEHQ
 
 [Document932]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - CUI V78.SCHLIB
@@ -15879,7 +15879,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YTPNFNPX
 
 [Document933]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - MURATA NXE.SCHLIB
@@ -15896,7 +15896,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SNGVFUDJ
 
 [Document934]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - MURATA NXJ1.SCHLIB
@@ -15913,7 +15913,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DECGGJBH
 
 [Document935]
 DocumentPath=symbols\Power - Module\SCH - POWER - MODULE - TI LMZ21701.SCHLIB
@@ -15930,7 +15930,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VFYIYMPU
 
 [Document936]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2295 5PIN.SCHLIB
@@ -15947,7 +15947,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XELMIKGF
 
 [Document937]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2295 8PIN.SCHLIB
@@ -15964,7 +15964,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YUQYPUYY
 
 [Document938]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2296 5PIN.SCHLIB
@@ -15981,7 +15981,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ERADUEKY
 
 [Document939]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - MICREL MIC2296 8PIN.SCHLIB
@@ -15998,7 +15998,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SUVRTFGF
 
 [Document940]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - ON SEMI CS5171_3.SCHLIB
@@ -16015,7 +16015,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WUAAQYUL
 
 [Document941]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - ON SEMI CS5172_4.SCHLIB
@@ -16032,7 +16032,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YDNHOIXI
 
 [Document942]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - ST ST1S50PUR.SCHLIB
@@ -16049,7 +16049,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WFWRKBJD
 
 [Document943]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM2622.SCHLIB
@@ -16066,7 +16066,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OECJYAOB
 
 [Document944]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM2731.SCHLIB
@@ -16083,7 +16083,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IQAGOUVO
 
 [Document945]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM2733.SCHLIB
@@ -16100,7 +16100,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MCYUPMNH
 
 [Document946]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5008.SCHLIB
@@ -16117,7 +16117,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XELMIKGF
+DocumentUniqueId=YEVDJBCW
 
 [Document947]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5118.SCHLIB
@@ -16134,7 +16134,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YUXNIMOR
 
 [Document948]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LM5161.SCHLIB
@@ -16151,7 +16151,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=REDKKDVG
 
 [Document949]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LMR61428.SCHLIB
@@ -16168,7 +16168,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BHVEJJCL
 
 [Document950]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI LMR62014.SCHLIB
@@ -16185,7 +16185,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VROVBHBT
 
 [Document951]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS5401.SCHLIB
@@ -16202,7 +16202,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DRRTBKVY
 
 [Document952]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS6102X.SCHLIB
@@ -16219,7 +16219,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UPDMXSIB
 
 [Document953]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS6123X.SCHLIB
@@ -16236,7 +16236,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DQKJCBYN
 
 [Document954]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS6217X.SCHLIB
@@ -16253,7 +16253,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HTOEEUIY
 
 [Document955]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS34914.SCHLIB
@@ -16270,7 +16270,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XELMIKGF
+DocumentUniqueId=FGYXAWAX
 
 [Document956]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55330.SCHLIB
@@ -16287,7 +16287,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YFQKCFJF
 
 [Document957]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55340 HTSSOP.SCHLIB
@@ -16304,7 +16304,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YOESRAPH
 
 [Document958]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS55340 QFN.SCHLIB
@@ -16321,7 +16321,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PJACLFNE
 
 [Document959]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS61085.SCHLIB
@@ -16338,7 +16338,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ELQGRERO
 
 [Document960]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS61090_1_2.SCHLIB
@@ -16355,7 +16355,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VEBYYSNL
 
 [Document961]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS61235_6.SCHLIB
@@ -16372,7 +16372,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VYVVRVIN
 
 [Document962]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS63020.SCHLIB
@@ -16389,7 +16389,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JKYOTTRR
 
 [Document963]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS63021.SCHLIB
@@ -16406,7 +16406,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XNWHDQOC
 
 [Document964]
 DocumentPath=symbols\Power - Switchmode\SCH - POWER - SWITCHMODE - TI TPS563201.SCHLIB
@@ -16423,7 +16423,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MRNRTIVD
 
 [Document965]
 DocumentPath=symbols\Power - Voltage References\SCH - POWER - VOLTAGE REFERENCES - MAXIM MAX6070.SCHLIB
@@ -16440,7 +16440,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NQJITXVU
 
 [Document966]
 DocumentPath=symbols\Power - Voltage References\SCH - POWER - VOLTAGE REFERENCES - MAXIM MAX6071.SCHLIB
@@ -16457,7 +16457,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TDMRIIOG
 
 [Document967]
 DocumentPath=symbols\Reset\SCH - RESET - MAXIM MAX811.SCHLIB
@@ -16474,7 +16474,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AUKADRFO
 
 [Document968]
 DocumentPath=symbols\Reset\SCH - RESET - MAXIM MAX812.SCHLIB
@@ -16491,7 +16491,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NTEHEQKK
 
 [Document969]
 DocumentPath=symbols\Reset\SCH - RESET - MAXIM MAX6315.SCHLIB
@@ -16508,7 +16508,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HKBXEBIQ
 
 [Document970]
 DocumentPath=symbols\Reset\SCH - RESET - MICROCHIP MIC811.SCHLIB
@@ -16525,7 +16525,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IUWYVOBE
 
 [Document971]
 DocumentPath=symbols\Reset\SCH - RESET - MICROCHIP MIC812.SCHLIB
@@ -16542,7 +16542,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SWJOKNTK
 
 [Document972]
 DocumentPath=symbols\Reset\SCH - RESET - MICROCHIP MIC6315.SCHLIB
@@ -16559,7 +16559,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OIEUVNVT
 
 [Document973]
 DocumentPath=symbols\Reset\SCH - RESET - ST STM811.SCHLIB
@@ -16576,7 +16576,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WGUJEFPO
 
 [Document974]
 DocumentPath=symbols\Reset\SCH - RESET - ST STM812.SCHLIB
@@ -16593,7 +16593,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GQWARVEB
 
 [Document975]
 DocumentPath=symbols\Reset\SCH - RESET - ST STM3615.SCHLIB
@@ -16610,7 +16610,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QLBCJOIC
 
 [Document976]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - BROADCOM MGA-72543.SCHLIB
@@ -16627,7 +16627,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KHPAUCLW
 
 [Document977]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - CEL RF FET N-CH.SCHLIB
@@ -16644,7 +16644,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FVHOBVPW
 
 [Document978]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP640.SCHLIB
@@ -16661,7 +16661,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IVCDDFDF
 
 [Document979]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP720.SCHLIB
@@ -16678,7 +16678,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LEWXYEWW
 
 [Document980]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP740.SCHLIB
@@ -16695,7 +16695,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GNHFIYTL
 
 [Document981]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFP840ESD.SCHLIB
@@ -16712,7 +16712,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PBNSIUVH
 
 [Document982]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - INFINEON BFR740L3RH.SCHLIB
@@ -16729,7 +16729,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BIDCUHPB
 
 [Document983]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - SKYWORKS SKY65116.SCHLIB
@@ -16746,7 +16746,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NJENKJII
 
 [Document984]
 DocumentPath=symbols\RF - Amplifier\SCH - RF - AMPLIFIER - TI CC1190.SCHLIB
@@ -16763,7 +16763,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FFFFBHMT
 
 [Document985]
 DocumentPath=symbols\RF - Antenna\SCH - RF - ANTENNA - BASIC ANTENNA.SCHLIB
@@ -16780,7 +16780,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IXCYKTDW
 
 [Document986]
 DocumentPath=symbols\RF - Connector\SCH - RF - CONNECTOR - RF CONNECTOR - SMA.SCHLIB
@@ -16797,7 +16797,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LIPYMQQA
 
 [Document987]
 DocumentPath=symbols\RF - Filter\SCH - RF - FILTER - JOHANSON BP15 4PAD FILTER.SCHLIB
@@ -16814,7 +16814,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EEYPOGBK
 
 [Document988]
 DocumentPath=symbols\RF - Filter\SCH - RF - FILTER - TAIYO YUDEN FAR-F6KA-1G5754-L4AB.SCHLIB
@@ -16831,7 +16831,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KPUKFGFF
 
 [Document989]
 DocumentPath=symbols\RF - Filter\SCH - RF - FILTER - TDK DEA25 4 PAD FILTER.SCHLIB
@@ -16848,7 +16848,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KHIKMXTO
 
 [Document990]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5530.SCHLIB
@@ -16865,7 +16865,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QFIVBXIW
 
 [Document991]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5531.SCHLIB
@@ -16882,7 +16882,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NDQPXVFP
 
 [Document992]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5532 DC6.SCHLIB
@@ -16899,7 +16899,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BDEQXIBH
 
 [Document993]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - LT LTC5532.SCHLIB
@@ -16916,7 +16916,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MFSJLRWK
 
 [Document994]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - RFMD RFSA2023.SCHLIB
@@ -16933,7 +16933,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PVLQDUIJ
 
 [Document995]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - TI LMH2110.SCHLIB
@@ -16950,7 +16950,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UJBPQTRM
 
 [Document996]
 DocumentPath=symbols\RF - IC\SCH - RF - IC - TI LMH2120.SCHLIB
@@ -16967,7 +16967,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FITNAEWL
 
 [Document997]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - ATMEL ATWINC1500-MR210PB.SCHLIB
@@ -16984,7 +16984,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MPKDYMMM
 
 [Document998]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - DIGI XBEE NC.SCHLIB
@@ -17001,7 +17001,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GLOKXLPG
 
 [Document999]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - DIGI XBEE.SCHLIB
@@ -17018,7 +17018,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMMPHUDE
 
 [Document1000]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - LSR SIFLEX02-R2 U.FL.SCHLIB
@@ -17035,7 +17035,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FWWYRALK
 
 [Document1001]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - SI LABS WF111.SCHLIB
@@ -17052,7 +17052,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BHVAWAOT
 
 [Document1002]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - ST SPWF01SC.21.SCHLIB
@@ -17069,7 +17069,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JVMBRMNQ
 
 [Document1003]
 DocumentPath=symbols\RF - Module\SCH - RF - MODULE - TI CC3000MOD.SCHLIB
@@ -17086,7 +17086,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CERLHAVS
 
 [Document1004]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13314-374LF.SCHLIB
@@ -17103,7 +17103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XFBVAKPG
 
 [Document1005]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13320-374LF.SCHLIB
@@ -17120,7 +17120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLLULETI
 
 [Document1006]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13330-397LF.SCHLIB
@@ -17137,7 +17137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SAPTYHPR
 
 [Document1007]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13335-381LF.SCHLIB
@@ -17154,7 +17154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXLOVMKD
 
 [Document1008]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13350-385LF.SCHLIB
@@ -17171,7 +17171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HKPSYRJW
 
 [Document1009]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13351-378LF.SCHLIB
@@ -17188,7 +17188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KUSGJLIU
 
 [Document1010]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13355-374LF.SCHLIB
@@ -17205,7 +17205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JVKREQOX
 
 [Document1011]
 DocumentPath=symbols\RF - Switch\SCH - RF - SWITCH - SKYWORKS SKY13411-374LF.SCHLIB
@@ -17222,7 +17222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=REBFSTMT
 
 [Document1012]
 DocumentPath=symbols\Sensor - Current\SCH - SENSOR - CURRENT - ALLEGRO ACS7XX 5 FORMED LEADS.SCHLIB
@@ -17239,7 +17239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=URGYQQFT
 
 [Document1013]
 DocumentPath=symbols\Sensor - Inductance\SCH - SENSOR - INDUCTANCE - TI LDC1000.SCHLIB
@@ -17256,7 +17256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LMSPOKTM
 
 [Document1014]
 DocumentPath=symbols\Sensor - Inductance\SCH - SENSOR - INDUCTANCE - TI LDC1312.SCHLIB
@@ -17273,7 +17273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FAAHVJLN
 
 [Document1015]
 DocumentPath=symbols\Sensor - Inductance\SCH - SENSOR - INDUCTANCE - TI LDC1314.SCHLIB
@@ -17290,7 +17290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SRNBCWJX
 
 [Document1016]
 DocumentPath=symbols\Sensor - Magnetic\SCH - SENSOR - MAGNETIC - TI DRV5053 SOT23.SCHLIB
@@ -17307,7 +17307,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UBCCWIMA
 
 [Document1017]
 DocumentPath=symbols\Sensor - Motion\SCH - SENSOR - MOTION - BOSCH BNO055.SCHLIB
@@ -17324,7 +17324,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXWYAOJW
 
 [Document1018]
 DocumentPath=symbols\Sensor - Motion\SCH - SENSOR - MOTION - INVENSENSE ICM-20608-G.SCHLIB
@@ -17341,7 +17341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ARXBBXAD
 
 [Document1019]
 DocumentPath=symbols\Sensor - Motion\SCH - SENSOR - MOTION - INVENSENSE MPU-9250.SCHLIB
@@ -17358,7 +17358,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HXSATKNG
 
 [Document1020]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - BOSCH BMP085.SCHLIB
@@ -17375,7 +17375,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OMLSYMDP
 
 [Document1021]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - FREESCALE MP3H6115A6U.SCHLIB
@@ -17392,7 +17392,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NIYFCQWQ
 
 [Document1022]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - FREESCALE MP3V5050.SCHLIB
@@ -17409,7 +17409,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FPLXJDSL
 
 [Document1023]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - FREESCALE MPXV7002DP.SCHLIB
@@ -17426,7 +17426,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MVEIWEMD
 
 [Document1024]
 DocumentPath=symbols\Sensor - Pressure\SCH - SENSOR - PRESSURE - MEAS SPEC MS5611.SCHLIB
@@ -17443,7 +17443,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DPRTNGUT
 
 [Document1025]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - ANALOG AD849X.SCHLIB
@@ -17460,7 +17460,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SAPUVYFJ
 
 [Document1026]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - ANALOG DEV TMP3X 5 PIN.SCHLIB
@@ -17477,7 +17477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KHEBHFTO
 
 [Document1027]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - ANALOG DEV TMP36 SO8.SCHLIB
@@ -17494,7 +17494,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WETAMNPJ
 
 [Document1028]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - MAXIM MAX31850_1.SCHLIB
@@ -17511,7 +17511,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PHSJCPPP
 
 [Document1029]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - MAXIM MAX31855.SCHLIB
@@ -17528,7 +17528,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PCGNNOQT
 
 [Document1030]
 DocumentPath=symbols\Sensor - Temperature\SCH - SENSOR - TEMPERATURE - SENSIRION STS21.SCHLIB
@@ -17545,7 +17545,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WNWDTTBE
 
 [Document1031]
 DocumentPath=symbols\Switch\SCH - SWITCH - DIP SW 2P.SCHLIB
@@ -17562,7 +17562,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TUBBGPOO
 
 [Document1032]
 DocumentPath=symbols\Switch\SCH - SWITCH - DIP SW 4P.SCHLIB
@@ -17579,7 +17579,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SSBNNAKV
 
 [Document1033]
 DocumentPath=symbols\Switch\SCH - SWITCH - DIP SW 6P.SCHLIB
@@ -17596,7 +17596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BEOSIIWH
 
 [Document1034]
 DocumentPath=symbols\Switch\SCH - SWITCH - NKK SS312.SCHLIB
@@ -17613,7 +17613,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BPRUMQBY
 
 [Document1035]
 DocumentPath=symbols\Video\SCH - VIDEO - MAXIM MAX7456.SCHLIB
@@ -17630,7 +17630,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQSEVIJO
 
 [Generic_IntLibOptions]
 OldFormat=False
@@ -17750,7 +17750,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -17960,213 +17960,208 @@ OutputName2=Text Print
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType3=Text Print
 OutputName3=Text Print
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Text Print
 OutputName4=Text Print
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=Text Print
 OutputName5=Text Print
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=Text Print
 OutputName6=Text Print
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType7=Text Print
 OutputName7=Text Print
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType8=Text Print
 OutputName8=Text Print
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=Text Print
 OutputName9=Text Print
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType10=Text Print
 OutputName10=Text Print
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType11=Text Print
 OutputName11=Text Print
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Text Print
 OutputName12=Text Print
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType13=Text Print
 OutputName13=Text Print
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType14=Text Print
 OutputName14=Text Print
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType15=Text Print
 OutputName15=Text Print
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType16=Text Print
 OutputName16=Text Print
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType17=Text Print
 OutputName17=Text Print
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType18=Text Print
 OutputName18=Text Print
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType19=Text Print
 OutputName19=Text Print
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType20=Text Print
 OutputName20=Text Print
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType21=Text Print
 OutputName21=Text Print
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType22=Text Print
 OutputName22=Text Print
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType23=Text Print
 OutputName23=Text Print
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType24=Text Print
 OutputName24=Text Print
 OutputDocumentPath24=
 OutputVariantName24=
 OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType25=Text Print
 OutputName25=Text Print
 OutputDocumentPath25=
 OutputVariantName25=
 OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType26=Text Print
 OutputName26=Text Print
 OutputDocumentPath26=
 OutputVariantName26=
 OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType27=Text Print
 OutputName27=Text Print
 OutputDocumentPath27=
 OutputVariantName27=
 OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType28=Text Print
 OutputName28=Text Print
 OutputDocumentPath28=
 OutputVariantName28=
 OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType29=Text Print
 OutputName29=Text Print
 OutputDocumentPath29=
 OutputVariantName29=
 OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup8]
 Name=Validation Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_Violations
-OutputName1=BOM Checks Report
+OutputType1=Component states check
+OutputName1=Server's components states check
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=Component states check
-OutputName2=Server's components states check
+OutputType2=Configuration compliance
+OutputName2=Environment configuration compliance check
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=Configuration compliance
-OutputName3=Environment configuration compliance check
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Design Rules Check
-OutputName4=Design Rules Check
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Differences Report
+OutputName4=Differences Report
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Differences Report
-OutputName5=Differences Report
+OutputType5=Electrical Rules Check
+OutputName5=Electrical Rules Check
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=Electrical Rules Check
-OutputName6=Electrical Rules Check
+OutputType6=Footprint Comparison Report
+OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=Footprint Comparison Report
-OutputName7=Footprint Comparison Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -18203,31 +18198,21 @@ OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -18357,7 +18342,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -18425,7 +18409,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
@@ -18620,4 +18603,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
